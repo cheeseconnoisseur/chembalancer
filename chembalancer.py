@@ -13,6 +13,8 @@ def balancer():
     print("#######################################")
     print("superbeta")
     print("enter")
+    print("enter in format blah blah blah = blah blah blah dont use any numbers it does it for youe xcept like gas ones like h2 uno")
+    print("example{'NH4ClO4 + Al = Al2O3 + HCl + H2O + N2")
     print("#######################################")
     lol = input(":")
     lol = lol.replace(" ","")
